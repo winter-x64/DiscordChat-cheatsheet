@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-
 ![Discord Image Banner](assets/image/banner.png)
+
+<div style="text-align: center;">
 
 # DiscordChat cheatsheet
 
