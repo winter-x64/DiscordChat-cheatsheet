@@ -1,12 +1,8 @@
-![Discord Image Banner](assets/image/banner.png)
+<p align="center">
+  <img src="assets/image/banner.png" alt=" Discord banner image."><br>
 
-<div style="text-align: center;">
-
-# DiscordChat cheatsheet
-
-## 🧑‍💻 CheatSheet | 📝 Guide | 🔰 Beginner
-
-</div>
+<h1 align="center">  DiscordChat cheatsheet  </h1>
+<h3 align="center">🧑‍💻 CheatSheet | 📝 Guide | 🔰 Beginner</h3>
 
 ## About the Project
 
