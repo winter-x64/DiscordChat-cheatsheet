@@ -68,7 +68,9 @@ if you add the Following at the starting and ending of your message you can alte
 
     Input
 
-    ``` `This is a code line` ```
+    ```md
+    `This is a code line`
+    ```
 
     Output
 
