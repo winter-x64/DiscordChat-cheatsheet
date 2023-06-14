@@ -28,10 +28,12 @@ if you add the Following at the starting and ending of your message you can alte
 1. Italic Text
     Input
 
-    ```md
+   ```md
     *This is a Italic Text*
-    
+
+     ```
     or
+   ```md
 
     _This is a Italic Text_
     ```
