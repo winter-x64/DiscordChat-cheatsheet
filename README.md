@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/image/banner.png" alt=" Discord banner image."><br>
+  <img src="https://i1.wp.com/techmoran.com/wp-content/uploads/2021/05/discord.jpg?resize=1140%2C570&ssl=1" alt=" Discord banner image."><br>
 
 <h1 align="center">  DiscordChat cheatsheet  </h1>
 <h3 align="center">🧑‍💻 CheatSheet | 📝 Guide | 🔰 Beginner</h3>
