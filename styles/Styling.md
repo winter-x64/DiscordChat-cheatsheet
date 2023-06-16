@@ -25,7 +25,7 @@ if you add the Following at the starting and ending of your message you can alte
    or
 
    ```md
-   _This is a Italic Text_
+   *This is a Italic Text*
    ```
 
    Output:-
@@ -36,7 +36,7 @@ if you add the Following at the starting and ending of your message you can alte
    Input
 
    ```md
-   **This is a Underline Text**
+   __This is a Underline Text__
    ```
 
    Output:-
